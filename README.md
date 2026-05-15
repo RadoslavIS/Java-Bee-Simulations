@@ -1,4 +1,4 @@
-# Java Bee Simulation 🐝
+# 🐝 Java Bee Simulations 🐝
 
 A university team project (3 contributors) built around bee–flower ecosystem simulations and bee-inspired optimization algorithms in Java. The work was evenly split across the team and documented through annotations and comments.
 
